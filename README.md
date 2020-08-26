@@ -9,4 +9,5 @@ There is NO fee for this service. If you find it useful, you can donate to the p
 
 ## main topics
 
-Javascript, React, Redux, C#, Design patterns, self-learning, self-development
+Javascript, React, Redux, C#, Design patterns, software architecture, microservices, database design.
+Self-learning, self-development, career development...
